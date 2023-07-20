@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Taekyun Kim</title>
-        <link>https://tae-kyun-kim.github.io/</link>
-        <description>Recent content on Taekyun Kim</description>
+        <title>Pages on Taekyun Kim</title>
+        <link>https://tae-kyun-kim.github.io/page/</link>
+        <description>Recent content in Pages on Taekyun Kim</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tae-kyun-kim.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tae-kyun-kim.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
         <link>https://tae-kyun-kim.github.io/archives/</link>
         <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
