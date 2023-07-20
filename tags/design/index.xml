@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Taekyun Kim</title>
-        <link>https://tae-kyun-kim.github.io/</link>
-        <description>Recent content on Taekyun Kim</description>
+        <title>Design on Taekyun Kim</title>
+        <link>https://tae-kyun-kim.github.io/tags/design/</link>
+        <description>Recent content in Design on Taekyun Kim</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tae-kyun-kim.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives</title>
-        <link>https://tae-kyun-kim.github.io/archives/</link>
-        <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://tae-kyun-kim.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tae-kyun-kim.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>(RA-L, 2023) Tunable Impact and Vibration Absorbing Neck for Robust Visual-Inertial State Estimation for Dynamic Legged Robots</title>
         <link>https://tae-kyun-kim.github.io/p/cheetah-neck/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
@@ -66,23 +58,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>https://tae-kyun-kim.github.io/about/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://tae-kyun-kim.github.io/about/</guid>
-        <description>&lt;p&gt;This is Taekyun Kim&amp;rsquo;s blog.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://tae-kyun-kim.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://tae-kyun-kim.github.io/search/</guid>
-        <description></description>
         </item>
         
     </channel>
