@@ -4,39 +4,65 @@
   <url>
     <loc>https://tae-kyun-kim.github.io/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/archives/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/page/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/p/cheetah-neck/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/categories/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/tags/design/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/tags/legged-robot/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/post/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/categories/publication/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/tags/slam/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/tags/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tae-kyun-kim.github.io/search/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
