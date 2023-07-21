@@ -27,12 +27,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tae-kyun-kim.github.io/tags/design/</loc>
+    <loc>https://tae-kyun-kim.github.io/tags/legged-robots/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tae-kyun-kim.github.io/tags/legged-robot/</loc>
+    <loc>https://tae-kyun-kim.github.io/tags/mechanism-design/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -47,12 +47,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tae-kyun-kim.github.io/tags/slam/</loc>
+    <loc>https://tae-kyun-kim.github.io/tags/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tae-kyun-kim.github.io/tags/</loc>
+    <loc>https://tae-kyun-kim.github.io/tags/visual-inertial-slam/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
